@@ -1,6 +1,6 @@
 package com.ushan.userManagement.controller;
 
-import com.ushan.userManagement.controller.dto.UserDTO;
+import com.ushan.userManagement.dto.UserDTO;
 import com.ushan.userManagement.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

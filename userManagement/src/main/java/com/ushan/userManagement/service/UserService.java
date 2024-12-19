@@ -1,6 +1,6 @@
 package com.ushan.userManagement.service;
 
-import com.ushan.userManagement.controller.dto.UserDTO;
+import com.ushan.userManagement.dto.UserDTO;
 import com.ushan.userManagement.model.User;
 import com.ushan.userManagement.repository.UserRepository;
 import jakarta.transaction.Transactional;

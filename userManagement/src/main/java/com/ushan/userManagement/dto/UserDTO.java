@@ -1,4 +1,4 @@
-package com.ushan.userManagement.controller.dto;
+package com.ushan.userManagement.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
